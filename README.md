@@ -1,9 +1,5 @@
-au-explore
+JRMCF 2016
 ==========
 
-Repo for Auburn University COSAM "AU Explore" Math Tent events
-
-## Licensing
-
-This content is only for use by Auburn University's College of Science and Mathematics 
-or the Department of Mathematics and Statistics.
+Activity for the 2016 Julia Robinson Mathematics Festival at
+UNC Charlotte.
